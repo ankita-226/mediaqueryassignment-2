@@ -108,13 +108,7 @@ font-weight: 700;
     position: relative;
     background-color: blue;
 }
-/*.line{
-    height: 5px;
-    width:79px;
-    background-color: blue;
-    border-radius:15px;
-    margin-bottom:20px;
-} */
+
 .wrapper{
     display: flex;
     align-items: center;
